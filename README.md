@@ -76,7 +76,7 @@ All transactions, payments, and image proofs are stored for transparency and sec
 
 ### 🔍 Comparison Chart
 
-![Benchmark Analysis](Resources/benchmark.png)
+Resources/benchmark.png
 
 
 ## 🚀 RentiX Advantages
