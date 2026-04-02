@@ -32,7 +32,7 @@ Borrower pays rent + deposit to the platform.
 Funds are held securely and released only after successful return.
 
 ### 📊 Tier-Based Security Deposit
-- **0–5k BDT:** No deposit  
+- **0–5k BDT:** 10% deposit  
 - **6k–20k BDT:** 50% deposit  
 - **21k+ BDT:** Full deposit  
 
